@@ -42,7 +42,7 @@ Obviously the more of these apply to you and your project, the worse the potenti
 
 On the flip side, if you are working on a longer-lived project, possibly with multiple team members, most of these practices will greatly boost your productivity and overall output in the long haul, if properly implemented. Yes, it will lead to more infrastructure and up-front thought and time investment, and thus a slight drop in initial productivity. However, this continued effort will ensure that the complexity of your project does not grow more than linearly (which obviously drops productivity - or increases effort). The below graph (taken from [Martin Fowler](https://martinfowler.com/articles/is-quality-worth-cost.html)) visualizes this relationship well:
 
-![graph of cumulative functionality](https://github.com/4lgn/dots-tracker/blob/master/images/graph.png "Graph of cumulative functionality")
+![graph of cumulative functionality](https://github.com/4lgn/modern-react-guide/blob/main/illustrations/graph.png "Graph of cumulative functionality")
 
 If you need more in-depth arguments in regards to this, you can read Martin Fowler's article on _"Is High Quality Software Worth the Cost?"_ [here](https://martinfowler.com/articles/is-quality-worth-cost.html).
 
@@ -84,7 +84,7 @@ Now, it is true that in total you will end up writing more lines of code. These 
 
 If you bundle this with the addition of tooling such as snippets and auto-completion (upon usage), using TypeScript can become _as fast_ or, dare I say it, _faster_ than without. Below here you glance at some attached videos of how fast writing fully typed React code can be:
 
-![typescript workflow](https://github.com/4lgn/dots-tracker/blob/master/images/typescriptworkflow.gif "Typescript Workflow")
+![typescript workflow](https://github.com/4lgn/modern-react-guide/blob/main/illustrations/typescriptworkflow.gif "Typescript Workflow")
 
 
 ## Redux
